@@ -1,69 +1,80 @@
-Hey, I'm Amour 👋
+# Hey, I'm Amour 👋
 
-Senior Frontend Engineer · React · TypeScript
+**Senior Frontend Engineer · React · TypeScript**
 
-I build production web applications with a focus on clean interfaces,
-performance, and reliable user experiences.
+I build production software with a focus on **clean interfaces, speed, and products that actually feel good to use**.
 
-I've spent the last 5 years shipping React and TypeScript applications,
-ranging from real-time financial calculators to complex, data-intensive
-dashboards.
+For the past 5 years, I've been shipping React and TypeScript applications — from real-time financial tools to complex, data-heavy dashboards. I enjoy taking something from a rough idea or design and turning it into software that is fast, reliable, and polished.
 
-What I do
+### What I do
 
-⚛️ Build production applications with React, TypeScript, and
-Next.js
+* ⚛️ Build production applications with **React, TypeScript, and Next.js**
+* ⚡ Make applications faster through **code-splitting, lazy-loading, caching, and performance optimization**
+* 🔄 Build interfaces around **complex state, real-time data, and multi-step workflows**
+* 🧩 Create **modular component systems** that stay maintainable as products grow
+* 🔌 Build and integrate **REST APIs, GraphQL, and WebSockets**
+* 🚀 Take products from **idea → architecture → implementation → deployment**
+* 🛠️ Work across the stack when the product needs it
 
-⚡ Improve performance through code-splitting, lazy-loading,
-caching, and Core Web Vitals
+### Some numbers I'm proud of
 
-🔄 Work with complex state, real-time data feeds, and multi-step
-user flows
+* **40% faster** page loads through performance optimization
+* **35% lower** data-fetch latency through API re-architecture and optimistic UI
+* **~30% faster** contributor onboarding through stronger TypeScript and modular architecture
+* **Zero critical downtime** across production launches
 
-🧩 Design modular component architectures that are easier to
-maintain and scale
+### Tech I use
 
-🔌 Build and integrate REST APIs, GraphQL, and WebSockets
+**Languages**
 
-🚀 Own products end-to-end, from requirements and architecture to
-CI/CD and deployment
+`JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `SQL`
 
-Impact
+**Frontend**
 
-40% faster page load times through performance optimization
+`React` · `Next.js` · `Redux Toolkit` · `Zustand` · `TanStack Query` · `Tailwind CSS` · `Styled Components`
 
-35% lower client data-fetch latency through API re-architecture
-and optimistic UI
+**UI & Data**
 
-~30% faster contributor onboarding through strict TypeScript
-and modular architecture
+`Framer Motion` · `D3.js` · `Recharts`
 
-Zero critical downtime across production launches
+**Backend & APIs**
 
-Tech Stack
+`Node.js` · `Express` · `REST APIs` · `GraphQL` · `WebSockets`
 
-Languages
+**Tools & Infrastructure**
 
-JavaScript · TypeScript · HTML5 · CSS3 · SQL
+`Git` · `GitHub Actions` · `Docker` · `Vite` · `Webpack` · `Vercel` · `Figma` · `Postman` · `Jest` · `Cypress`
 
-Frontend
+**Engineering**
 
-React · Next.js · Redux Toolkit · Zustand · TanStack Query ·
-Tailwind CSS · Styled Components
+`CI/CD` · `WCAG` · `Agile/Scrum` · `Performance Optimization`
 
-UI & Data
+### What I'm interested in
 
-Framer Motion · D3.js · Recharts
+Beyond client work, I like building **small, focused products of my own** — especially software that solves a real problem without trying to turn every feature into a subscription.
 
-Backend & APIs
+I'm also into:
 
-Node.js · Express · REST APIs · GraphQL · WebSockets
+🏎️ **Formula 1** — engineering, strategy, and the occasional questionable radio message.
 
-Tools & Infrastructure
+🎮 **Video games** — good mechanics, good worlds, and anything that gives me an excuse to optimize something unnecessarily.
 
-Git · GitHub Actions · Docker · Vite · Webpack · Vercel ·
-Figma · Postman · Jest · Cypress
+🤼 **WWE** — yes, I still watch wrestling.
 
-Engineering
+🛠️ **Building stuff** — apps, products, interfaces, prototypes, and occasionally things that have absolutely no business being built.
 
-CI/CD · WCAG · Agile/Scrum · Performance Optimization
+### A little more about me
+
+I've been programming since I was a teenager and eventually turned it into a career. I've also managed to do pretty well academically along the way — but I'd rather let the things I've built do most of the talking.
+
+These days, I'm much more interested in **building something real than talking about what I could build**.
+
+---
+
+### Let's connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-amouromar-181717?style=flat\&logo=github)](https://github.com/amouromar)
+
+[![Email](https://img.shields.io/badge/Email-amourhamisiomar%40gmail.com-EA4335?style=flat\&logo=gmail)](mailto:amourhamisiomar@gmail.com)
+
+*Build something. Make it good. Then make it better.*
