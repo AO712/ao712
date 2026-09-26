@@ -2,8 +2,6 @@
 
 **Senior Frontend Engineer · React · TypeScript**
 
-I build production software with a focus on **clean interfaces, speed, and products that actually feel good to use**.
-
 For the past 5 years, I've been shipping React and TypeScript applications — from real-time financial tools to complex, data-heavy dashboards. I enjoy taking something from a rough idea or design and turning it into software that is fast, reliable, and polished.
 
 ### What I do
@@ -15,13 +13,6 @@ For the past 5 years, I've been shipping React and TypeScript applications — f
 * 🔌 Build and integrate **REST APIs, GraphQL, and WebSockets**
 * 🚀 Take products from **idea → architecture → implementation → deployment**
 * 🛠️ Work across the stack when the product needs it
-
-### Some numbers I'm proud of
-
-* **40% faster** page loads through performance optimization
-* **35% lower** data-fetch latency through API re-architecture and optimistic UI
-* **~30% faster** contributor onboarding through stronger TypeScript and modular architecture
-* **Zero critical downtime** across production launches
 
 ### Tech I use
 
@@ -72,8 +63,6 @@ These days, I'm much more interested in **building something real than talking a
 ---
 
 ### Let's connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-amouromar-181717?style=flat\&logo=github)](https://github.com/amouromar)
 
 [![Email](https://img.shields.io/badge/Email-amourhamisiomar%40gmail.com-EA4335?style=flat\&logo=gmail)](mailto:amourhamisiomar@gmail.com)
 
